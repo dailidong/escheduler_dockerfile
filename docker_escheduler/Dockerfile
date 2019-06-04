@@ -4,7 +4,7 @@ MAINTAINER journey "825193156@qq.com"
 
 ENV LANG=C.UTF-8
 
-ARG version
+ARG escheduler_version
 
 #1,安装jdk
 
